@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TestController",
+    "Method": "GetTestMessage",
+    "RelativePath": "api/Test/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
