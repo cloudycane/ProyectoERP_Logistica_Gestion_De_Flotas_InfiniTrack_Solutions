@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Proyecto.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Proyecto.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proyecto.Core.dll": {}
+        }
+      },
+      "Proyecto.Infraestructura/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Proyecto.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Proyecto.Infraestructura.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proyecto.Infraestructura.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Proyecto.Core/1.0.0": {
+      "type": "project",
+      "path": "../Proyecto.Core/Proyecto.Core.csproj",
+      "msbuildProject": "../Proyecto.Core/Proyecto.Core.csproj"
+    },
+    "Proyecto.Infraestructura/1.0.0": {
+      "type": "project",
+      "path": "../Proyecto.Infraestructura/Proyecto.Infraestructura.csproj",
+      "msbuildProject": "../Proyecto.Infraestructura/Proyecto.Infraestructura.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Proyecto.Core >= 1.0.0",
+      "Proyecto.Infraestructura >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\gesel\\.nuget\\packages\\": {},
@@ -39,7 +77,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Core\\Proyecto.Core.csproj": {
+              "projectPath": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Core\\Proyecto.Core.csproj"
+            },
+            "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Infraestructura\\Proyecto.Infraestructura.csproj": {
+              "projectPath": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Infraestructura\\Proyecto.Infraestructura.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1712,6 +1712,43 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Proyecto.Aplicacion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Proyecto.Core": "1.0.0",
+          "Proyecto.Infraestructura": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Proyecto.Aplicacion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proyecto.Aplicacion.dll": {}
+        }
+      },
+      "Proyecto.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Proyecto.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proyecto.Core.dll": {}
+        }
+      },
+      "Proyecto.Infraestructura/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Proyecto.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Proyecto.Infraestructura.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proyecto.Infraestructura.dll": {}
+        }
       }
     }
   },
@@ -5506,11 +5543,28 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Proyecto.Aplicacion/1.0.0": {
+      "type": "project",
+      "path": "../Proyecto.Aplicacion/Proyecto.Aplicacion.csproj",
+      "msbuildProject": "../Proyecto.Aplicacion/Proyecto.Aplicacion.csproj"
+    },
+    "Proyecto.Core/1.0.0": {
+      "type": "project",
+      "path": "../Proyecto.Core/Proyecto.Core.csproj",
+      "msbuildProject": "../Proyecto.Core/Proyecto.Core.csproj"
+    },
+    "Proyecto.Infraestructura/1.0.0": {
+      "type": "project",
+      "path": "../Proyecto.Infraestructura/Proyecto.Infraestructura.csproj",
+      "msbuildProject": "../Proyecto.Infraestructura/Proyecto.Infraestructura.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.5.0",
+      "Proyecto.Aplicacion >= 1.0.0",
+      "Proyecto.Infraestructura >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5548,7 +5602,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Aplicacion\\Proyecto.Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Aplicacion\\Proyecto.Aplicacion.csproj"
+            },
+            "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Infraestructura\\Proyecto.Infraestructura.csproj": {
+              "projectPath": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Infraestructura\\Proyecto.Infraestructura.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

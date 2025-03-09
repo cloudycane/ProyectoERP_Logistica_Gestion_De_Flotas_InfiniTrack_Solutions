@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AE46464-26EA-4806-A689-1945A756EBDB}|Proyecto.WebAPI\\Proyecto.WebAPI.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.webapi\\clientapp\\proyectoui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{0AE46464-26EA-4806-A689-1945A756EBDB}|Proyecto.WebAPI\\Proyecto.WebAPI.csproj|solutionrelative:proyecto.webapi\\clientapp\\proyectoui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE46464-26EA-4806-A689-1945A756EBDB}|Proyecto.WebAPI\\Proyecto.WebAPI.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.webapi\\clientapp\\proyectoui\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0AE46464-26EA-4806-A689-1945A756EBDB}|Proyecto.WebAPI\\Proyecto.WebAPI.csproj|solutionrelative:proyecto.webapi\\clientapp\\proyectoui\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE46464-26EA-4806-A689-1945A756EBDB}|Proyecto.WebAPI\\Proyecto.WebAPI.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.webapi\\clientapp\\proyectoui\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0AE46464-26EA-4806-A689-1945A756EBDB}|Proyecto.WebAPI\\Proyecto.WebAPI.csproj|solutionrelative:proyecto.webapi\\clientapp\\proyectoui\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE46464-26EA-4806-A689-1945A756EBDB}|Proyecto.WebAPI\\Proyecto.WebAPI.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.webapi\\clientapp\\proyectoui\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0AE46464-26EA-4806-A689-1945A756EBDB}|Proyecto.WebAPI\\Proyecto.WebAPI.csproj|solutionrelative:proyecto.webapi\\clientapp\\proyectoui\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,55 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.WebAPI\\ClientApp\\ProyectoUI\\.gitignore",
-              "RelativeDocumentMoniker": "Proyecto.WebAPI\\ClientApp\\ProyectoUI\\.gitignore",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.WebAPI\\ClientApp\\ProyectoUI\\.gitignore",
-              "RelativeToolTip": "Proyecto.WebAPI\\ClientApp\\ProyectoUI\\.gitignore",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-22T20:27:07.371Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Proyecto.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Proyecto.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-08T22:31:31.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.WebAPI\\ClientApp\\ProyectoUI\\package.json",
-              "RelativeDocumentMoniker": "Proyecto.WebAPI\\ClientApp\\ProyectoUI\\package.json",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.WebAPI\\ClientApp\\ProyectoUI\\package.json",
-              "RelativeToolTip": "Proyecto.WebAPI\\ClientApp\\ProyectoUI\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-22T20:26:07.663Z",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T22:18:22.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T21:19:30.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.js",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.WebAPI\\ClientApp\\ProyectoUI\\App.js",
-              "RelativeDocumentMoniker": "Proyecto.WebAPI\\ClientApp\\ProyectoUI\\App.js",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.WebAPI\\ClientApp\\ProyectoUI\\App.js",
-              "RelativeToolTip": "Proyecto.WebAPI\\ClientApp\\ProyectoUI\\App.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-22T19:32:06.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app.json",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.WebAPI\\ClientApp\\ProyectoUI\\app.json",
-              "RelativeDocumentMoniker": "Proyecto.WebAPI\\ClientApp\\ProyectoUI\\app.json",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.WebAPI\\ClientApp\\ProyectoUI\\app.json",
-              "RelativeToolTip": "Proyecto.WebAPI\\ClientApp\\ProyectoUI\\app.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\appsettings.json",
+              "RelativeToolTip": "Proyecto.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-22T19:32:05.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:01:59.392Z"
             }
           ]
         }

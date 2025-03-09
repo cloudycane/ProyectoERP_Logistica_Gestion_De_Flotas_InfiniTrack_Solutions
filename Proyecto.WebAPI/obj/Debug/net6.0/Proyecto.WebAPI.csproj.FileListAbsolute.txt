@@ -1,10 +1,5 @@
 C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\ClientApp\my-app\app.json
-C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\ClientApp\my-app\eas.json
-C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\ClientApp\my-app\package-lock.json
-C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\ClientApp\my-app\package.json
-C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\ClientApp\my-app\tsconfig.json
 C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\Proyecto.WebAPI.exe
 C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\Proyecto.WebAPI.deps.json
 C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\Proyecto.WebAPI.runtimeconfig.json
@@ -35,3 +30,7 @@ C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\obj\Debug\net6.0\refint
 C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\obj\Debug\net6.0\Proyecto.WebAPI.pdb
 C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\obj\Debug\net6.0\Proyecto.WebAPI.genruntimeconfig.cache
 C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\obj\Debug\net6.0\ref\Proyecto.WebAPI.dll
+C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\ClientApp\ProyectoUI\app.json
+C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\ClientApp\ProyectoUI\package-lock.json
+C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\bin\Debug\net6.0\ClientApp\ProyectoUI\package.json
+C:\Users\gesel\source\repos\Proyecto.Web\Proyecto.WebAPI\obj\Debug\net6.0\Proyecto.WebAPI.sourcelink.json
