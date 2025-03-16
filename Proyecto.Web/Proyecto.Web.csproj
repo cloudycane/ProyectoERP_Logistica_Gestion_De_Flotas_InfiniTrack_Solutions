@@ -11,6 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Flotas\Controllers\" />
+    <Folder Include="Areas\Flotas\Views\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
 

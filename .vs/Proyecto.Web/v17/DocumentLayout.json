@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\views\\shared\\_alertasdiv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\views\\shared\\_alertasdiv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\areas\\cliente\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\areas\\cliente\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\views\\shared\\_welcomediv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\views\\shared\\_welcomediv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyecto.web\\proyecto.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +50,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_alertasDiv.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\Shared\\_alertasDiv.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Views\\Shared\\_alertasDiv.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\Shared\\_alertasDiv.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Views\\Shared\\_alertasDiv.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T08:45:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Areas\\Cliente\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Cliente\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Areas\\Cliente\\_ViewImports.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Areas\\Cliente\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T08:40:11.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T08:40:05.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_welcomeDiv.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\Shared\\_welcomeDiv.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Views\\Shared\\_welcomeDiv.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\Shared\\_welcomeDiv.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Views\\Shared\\_welcomeDiv.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T08:37:47.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Proyecto.Web\\wwwroot\\css\\site.css",
@@ -46,15 +114,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEcAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T22:18:22.239Z"
+              "WhenOpened": "2025-03-08T22:18:22.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,14 +133,14 @@
               "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Proyecto.Web\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-08T21:19:30.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\Proyecto.Web\\Proyecto.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Proyecto.Web\\appsettings.json",
