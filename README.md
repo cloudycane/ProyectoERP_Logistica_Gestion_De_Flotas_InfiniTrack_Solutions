@@ -7,6 +7,18 @@ Este proyecto busca proporcionar una solución ERP funcional y modular, que pued
 
 ![erp_scheme drawio](https://github.com/user-attachments/assets/d0cd9f7a-af79-43dd-93ae-863209071605)
 
+Este esquema representa el modelo de datos del ERP InfiniTrack Solutions, organizando las principales entidades y relaciones dentro del sistema. <br>
+<br>
+📌 Áreas principales:
+<ul>
+  <li>Gestión de Activos 🏢</li>
+  <li>Logística y Flotas 🚛</li>
+  <li>Mantenimiento y Reparaciones 🔧</li>
+  <li>Inventario y Almacén 📦</li>
+  <li>Finanzas y Facturación 💰</li>
+  <li>Reportes y Análisis 📊</li>
+</ul>
+
 ![entidades_convenciónes drawio](https://github.com/user-attachments/assets/7f0a87f6-a67f-405e-8aaf-e1c26d10183f)
 
 https://github.com/user-attachments/assets/909924a4-2878-466d-88fe-292e4dd631c1
