@@ -7,6 +7,8 @@ Este proyecto busca proporcionar una solución ERP funcional y modular, que pued
 
 ![erp_scheme drawio](https://github.com/user-attachments/assets/d0cd9f7a-af79-43dd-93ae-863209071605)
 
+<h1>Módulos del ERP</h1>
+
 Este esquema representa el modelo de datos del ERP InfiniTrack Solutions, organizando las principales entidades y relaciones dentro del sistema. <br>
 <br>
 📌 Áreas principales:
