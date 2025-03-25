@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "SWYUwQHeafEekmfAui6jLv8GzFY8PofcjSYDairJoXY=",
+  "Hash": "FUEndnkTgq3KD66+/J1/WwERBM2vHCAYSMoOqLdPbnQ=",
   "Source": "Proyecto.WebAPI",
   "BasePath": "_content/Proyecto.WebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
