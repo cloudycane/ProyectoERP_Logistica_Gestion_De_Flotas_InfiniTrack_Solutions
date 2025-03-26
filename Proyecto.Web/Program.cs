@@ -2,6 +2,10 @@ using Microsoft.EntityFrameworkCore;
 using Proyecto.Aplicacion.Common.Mappings;
 using Proyecto.Infraestructura.Persistence.DataAccess;
 using AutoMapper;
+using Proyecto.Aplicacion.Interfaces;
+using Proyecto.Aplicacion.Services;
+using Proyecto.Core.Interfaces;
+using Proyecto.Infraestructura.Persistence.Repositorios;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +17,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));
+builder.Services.AddScoped<IActivosService, ActivosService>();
+
+
+builder.Services.AddScoped<ICategoriaActivosRepositorio, CategoriaActivosRepositorio>();
+
+
 
 
 var app = builder.Build();

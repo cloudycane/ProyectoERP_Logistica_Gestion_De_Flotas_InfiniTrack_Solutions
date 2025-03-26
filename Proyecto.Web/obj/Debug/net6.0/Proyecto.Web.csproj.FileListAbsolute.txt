@@ -117,3 +117,5 @@ C:\Users\gesel\source\repos\ProyectoERP.WebAPI-Angular\InfiniTrack-Solutions-Pro
 C:\Users\gesel\source\repos\ProyectoERP.WebAPI-Angular\InfiniTrack-Solutions-Project\Proyecto.Web\obj\Debug\net6.0\Proyecto.Web.pdb
 C:\Users\gesel\source\repos\ProyectoERP.WebAPI-Angular\InfiniTrack-Solutions-Project\Proyecto.Web\obj\Debug\net6.0\Proyecto.Web.genruntimeconfig.cache
 C:\Users\gesel\source\repos\ProyectoERP.WebAPI-Angular\InfiniTrack-Solutions-Project\Proyecto.Web\obj\Debug\net6.0\ref\Proyecto.Web.dll
+C:\Users\gesel\source\repos\ProyectoERP.WebAPI-Angular\InfiniTrack-Solutions-Project\Proyecto.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gesel\source\repos\ProyectoERP.WebAPI-Angular\InfiniTrack-Solutions-Project\Proyecto.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
