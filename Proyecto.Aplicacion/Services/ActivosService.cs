@@ -10,14 +10,14 @@ namespace Proyecto.Aplicacion.Services
     {
         private readonly ICategoriaActivosRepositorio _categoriaActivosRepositorio;
         private readonly IMapper _mapper;
-            
+
         public ActivosService(ICategoriaActivosRepositorio categoriaActivosRepositorio, IMapper mapper)
         {
             _categoriaActivosRepositorio = categoriaActivosRepositorio;
             _mapper = mapper;
         }
 
-        #region Convertir Modelo a DTO
+        #region CONVERTIR MODELO A DTO
 
         public CategoriaActivosModel ConvertToModel(CategoriaActivosDTO dto)
         {
@@ -27,7 +27,7 @@ namespace Proyecto.Aplicacion.Services
         #endregion
 
 
-        #region Convertir DTOs a Modelo
+        #region CONVERTIR DTO A MODELO
 
         public CategoriaActivosDTO ConvertToDTO(CategoriaActivosModel model)
         {
@@ -36,7 +36,7 @@ namespace Proyecto.Aplicacion.Services
 
         #endregion
 
-        #region
+        #region OBTENER LISTADO
 
         public async Task<IEnumerable<CategoriaActivosModel>> ObtenerListadoCategoriasActivos()
         {
@@ -46,5 +46,27 @@ namespace Proyecto.Aplicacion.Services
 
         #endregion
 
+        #region OBTENER ID 
+
+        public async Task<CategoriaActivosModel> ObtenerCategoriaActivoPorIdAsync(int id)
+        {
+            var categoria = await _categoriaActivosRepositorio.ObtenerCategoriaActivosPorId(id);
+            return categoria;
+        }
+
+        #endregion
+
+        #region CREAR CATEGORÍA
+
+        public async Task<CategoriaActivosModel> CrearCategoriaAsync(CategoriaActivosModel model)
+        {
+            await _categoriaActivosRepositorio.CrearCategoriaActivos(model);
+            var categoriaId = model.Id;
+            var categoriaCreado = await ObtenerCategoriaActivoPorIdAsync(categoriaId);
+            return categoriaCreado;
+
+        }
+
+        #endregion
     }
 }

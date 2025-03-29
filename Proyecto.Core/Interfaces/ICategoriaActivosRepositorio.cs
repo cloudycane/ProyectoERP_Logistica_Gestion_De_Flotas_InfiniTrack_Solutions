@@ -9,6 +9,8 @@ namespace Proyecto.Core.Interfaces
 {
     public interface ICategoriaActivosRepositorio
     {
+        Task CrearCategoriaActivos(CategoriaActivosModel categoria);
+        Task<CategoriaActivosModel> ObtenerCategoriaActivosPorId(int id);
         Task<IEnumerable<CategoriaActivosModel>> ObtenerListadoCategoriasActivos();
     }
 }
