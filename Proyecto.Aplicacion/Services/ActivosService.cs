@@ -64,7 +64,6 @@ namespace Proyecto.Aplicacion.Services
             var categoriaId = model.Id;
             var categoriaCreado = await ObtenerCategoriaActivoPorIdAsync(categoriaId);
             return categoriaCreado;
-
         }
 
         #endregion

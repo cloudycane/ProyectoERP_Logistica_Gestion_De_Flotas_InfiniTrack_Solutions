@@ -61,7 +61,7 @@
     </div>
     <div>
         <header class="p-3 mb-0 border-bottom bg-black">
-            <div class="container">
+            
                 <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
                     <h2>
                         <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 link-body-emphasis text-decoration-none text-white">
@@ -93,7 +93,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            
         </header>
         <div class="row">
             <div class="float-end mt-2">
@@ -103,9 +103,14 @@
                 </button>
             </div>
             
-            <div class="col min-vh-100 py-3">
-                @RenderBody()
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col min-vh-100 py-3">
+                        @RenderBody()
+                    </div>
+                </div>
             </div>
+
         </div>
     </div>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

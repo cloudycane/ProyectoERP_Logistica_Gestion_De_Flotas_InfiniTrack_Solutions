@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DC4A460-1DE3-4746-B9D8-E8BFF7D3DC45}|Proyecto.Aplicacion\\Proyecto.Aplicacion.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.aplicacion\\services\\activosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DC4A460-1DE3-4746-B9D8-E8BFF7D3DC45}|Proyecto.Aplicacion\\Proyecto.Aplicacion.csproj|solutionrelative:proyecto.aplicacion\\services\\activosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.web\\areas\\activos\\views\\activocategoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\areas\\activos\\views\\activocategoria\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5015B14-A0D3-4342-8767-8A6E752B691C}|Proyecto.Infraestructura\\Proyecto.Infraestructura.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.infraestructura\\persistence\\repositorios\\categoriaactivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5015B14-A0D3-4342-8767-8A6E752B691C}|Proyecto.Infraestructura\\Proyecto.Infraestructura.csproj|solutionrelative:proyecto.infraestructura\\persistence\\repositorios\\categoriaactivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA841A9D-15B6-4B72-842C-C3E79EBAD5CD}|Proyecto.Core\\Proyecto.Core.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.core\\dtos\\categoriaactivosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA841A9D-15B6-4B72-842C-C3E79EBAD5CD}|Proyecto.Core\\Proyecto.Core.csproj|solutionrelative:proyecto.core\\dtos\\categoriaactivosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.web\\areas\\activos\\views\\activocategoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\areas\\activos\\views\\activocategoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.web\\areas\\activos\\controllers\\activocategoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\areas\\activos\\controllers\\activocategoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.web\\areas\\activos\\views\\activocategoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\areas\\activos\\views\\activocategoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BA841A9D-15B6-4B72-842C-C3E79EBAD5CD}|Proyecto.Core\\Proyecto.Core.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.core\\entidades\\categoriaactivosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA841A9D-15B6-4B72-842C-C3E79EBAD5CD}|Proyecto.Core\\Proyecto.Core.csproj|solutionrelative:proyecto.core\\entidades\\categoriaactivosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.web\\areas\\activos\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA8623B-AA18-4966-A1A3-E641353C2BD0}|Proyecto.Web\\Proyecto.Web.csproj|solutionrelative:proyecto.web\\areas\\activos\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC4A460-1DE3-4746-B9D8-E8BFF7D3DC45}|Proyecto.Aplicacion\\Proyecto.Aplicacion.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.aplicacion\\services\\activosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC4A460-1DE3-4746-B9D8-E8BFF7D3DC45}|Proyecto.Aplicacion\\Proyecto.Aplicacion.csproj|solutionrelative:proyecto.aplicacion\\services\\activosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5015B14-A0D3-4342-8767-8A6E752B691C}|Proyecto.Infraestructura\\Proyecto.Infraestructura.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.webapi-angular\\infinitrack-solutions-project\\proyecto.infraestructura\\persistence\\repositorios\\categoriaactivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5015B14-A0D3-4342-8767-8A6E752B691C}|Proyecto.Infraestructura\\Proyecto.Infraestructura.csproj|solutionrelative:proyecto.infraestructura\\persistence\\repositorios\\categoriaactivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +50,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ActivosService.cs",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Aplicacion\\Services\\ActivosService.cs",
-              "RelativeDocumentMoniker": "Proyecto.Aplicacion\\Services\\ActivosService.cs",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Aplicacion\\Services\\ActivosService.cs",
-              "RelativeToolTip": "Proyecto.Aplicacion\\Services\\ActivosService.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAqwEEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T07:06:56.484Z",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Proyecto.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Proyecto.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T12:13:51.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwG8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T12:07:53.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CategoriaActivosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Core\\DTOs\\CategoriaActivosDTO.cs",
+              "RelativeDocumentMoniker": "Proyecto.Core\\DTOs\\CategoriaActivosDTO.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Core\\DTOs\\CategoriaActivosDTO.cs",
+              "RelativeToolTip": "Proyecto.Core\\DTOs\\CategoriaActivosDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:58:38.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaActivosModel.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Core\\Entidades\\CategoriaActivosModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Core\\Entidades\\CategoriaActivosModel.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Core\\Entidades\\CategoriaActivosModel.cs",
+              "RelativeToolTip": "Proyecto.Core\\Entidades\\CategoriaActivosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:58:22.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Crear.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Crear.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T11:39:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivoCategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Controllers\\ActivoCategoriaController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Activos\\Controllers\\ActivoCategoriaController.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Controllers\\ActivoCategoriaController.cs",
+              "RelativeToolTip": "Proyecto.Web\\Areas\\Activos\\Controllers\\ActivoCategoriaController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:56:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T19:35:00.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Activos\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\_ViewImports.cshtml",
+              "RelativeToolTip": "Proyecto.Web\\Areas\\Activos\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T11:40:17.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivosService.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Aplicacion\\Services\\ActivosService.cs",
+              "RelativeDocumentMoniker": "Proyecto.Aplicacion\\Services\\ActivosService.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Aplicacion\\Services\\ActivosService.cs",
+              "RelativeToolTip": "Proyecto.Aplicacion\\Services\\ActivosService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:06:56.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CategoriaActivosRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Infraestructura\\Persistence\\Repositorios\\CategoriaActivosRepositorio.cs",
               "RelativeDocumentMoniker": "Proyecto.Infraestructura\\Persistence\\Repositorios\\CategoriaActivosRepositorio.cs",
@@ -51,32 +178,7 @@
               "RelativeToolTip": "Proyecto.Infraestructura\\Persistence\\Repositorios\\CategoriaActivosRepositorio.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAWwCwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:57:05.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ActivoCategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Controllers\\ActivoCategoriaController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Activos\\Controllers\\ActivoCategoriaController.cs",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Controllers\\ActivoCategoriaController.cs",
-              "RelativeToolTip": "Proyecto.Web\\Areas\\Activos\\Controllers\\ActivoCategoriaController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:56:42.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Index.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.WebAPI-Angular\\InfiniTrack-Solutions-Project\\Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Index.cshtml",
-              "RelativeToolTip": "Proyecto.Web\\Areas\\Activos\\Views\\ActivoCategoria\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T19:35:00.152Z"
+              "WhenOpened": "2025-03-29T06:57:05.161Z"
             }
           ]
         }

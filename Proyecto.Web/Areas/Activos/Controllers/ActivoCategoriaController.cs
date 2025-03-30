@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Proyecto.Aplicacion.Interfaces;
+using Proyecto.Core.DTOs;
 using Proyecto.Core.Entidades;
 using Proyecto.Web.ViewModels;
 
@@ -26,6 +27,26 @@ namespace Proyecto.Web.Areas.Activos.Controllers
             };
 
             return View(viewModel);
+        }
+        [HttpGet]
+
+        public IActionResult Crear()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Crear(CategoriaActivosModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+
+            await _activosService.CrearCategoriaAsync(model);
+            TempData["SuccessMessage"] = "La categoría ha sido creada exitosamente";
+            return RedirectToAction("Index");
+            
         }
 
 

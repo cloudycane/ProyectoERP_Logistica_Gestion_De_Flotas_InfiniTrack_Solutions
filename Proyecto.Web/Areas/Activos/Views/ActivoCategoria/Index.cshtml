@@ -3,27 +3,27 @@
 <h1 class="text-center">Categoría de Activos</h1>
 
 <div class="container">
-	<table class="table table-striped">
-		<thead>
-			<tr>
-				<th>Nombre</th>
-				<th>Descripción</th>
-				<th>Acciones</th>
-			</tr>
-		</thead>
-		<tbody>
-			@foreach (var categoria in Model.Categorias)
-			{
+		<table class="table table-striped">
+			<thead>
 				<tr>
-					<td>@categoria.Nombre</td>
-					<td>@categoria.Descripción</td>
-					<td>
-						<a class="btn btn-primary">Editar</a>
-						<a class="btn btn-danger">Eliminar</a>
-					</td>
+					<th>Nombre</th>
+					<th>Descripción</th>
+					<th>Acciones</th>
 				</tr>
-			}
-		</tbody>
-	</table>
+			</thead>
+			<tbody>
+				@foreach (var categoria in Model.Categorias)
+				{
+					<tr>
+						<td>@categoria.Nombre</td>
+						<td>@categoria.Descripción</td>
+						<td>
+							<a class="btn btn-primary">Editar</a>
+							<a class="btn btn-danger">Eliminar</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
 </div>
 
