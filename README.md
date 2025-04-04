@@ -2,6 +2,7 @@
 InfiniTrack Solutions es un sistema especializado en el monitoreo, rastreo y gestión de flotas de transporte, proporcionando soluciones integradas para optimizar la operación logística y reducir costos operativos.
 <br>
 🚚<b>¿A qué se dedica?</b>
+Se especializa en el monitoreo, rastreo y gestión de flotas de transporte brindando soluciones a empresas que requieren: seguimiento GPS en tiempo real, optimización de rutas, mantenimiento preventivo y correctivo de vehículos, control de combustible y rendimiento, facturación y gestión de clientes. 
 <br>
 🎯<b>Objetivo</b> : 
 Este proyecto busca proporcionar una solución ERP funcional y modular, que pueda adaptarse a distintas necesidades del sector logístico, optimizando la administración de flotas, seguimiento de envíos y gestión operativa.
