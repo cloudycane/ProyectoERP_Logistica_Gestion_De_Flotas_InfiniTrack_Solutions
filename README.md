@@ -22,6 +22,8 @@ Se enfrentan a una falta de integración y automatización en la gestión de nue
 ⛔ Dificultades en la facturación y administración financiera. <br>
 ⛔ Mantenimiento ineficiente, causando retrasos y sobrecostos. <br>
 
+<hr>
+
 ![erp_scheme drawio](https://github.com/user-attachments/assets/d0cd9f7a-af79-43dd-93ae-863209071605)
 
 <h1>Módulos del ERP</h1>
