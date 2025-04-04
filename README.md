@@ -1,5 +1,5 @@
-<center><h1>Proyecto InfiniTrack Solutions</h1></center>
-InfiniTrack Solutions ERP es un sistema especializado en el monitoreo, rastreo y gestión de flotas de transporte, proporcionando soluciones integradas para optimizar la operación logística y reducir costos operativos.
+<h1>Proyecto ERP InfiniTrack Solutions</h1>
+InfiniTrack Solutions es un sistema especializado en el monitoreo, rastreo y gestión de flotas de transporte, proporcionando soluciones integradas para optimizar la operación logística y reducir costos operativos.
 <br>
 <br>
 🎯<b>Objetivo</b> : 
