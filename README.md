@@ -12,6 +12,8 @@ Se especializa en el monitoreo, rastreo y gestión de flotas de transporte brind
 <br>
 <br>
 Este proyecto busca proporcionar una solución ERP funcional y modular, que pueda adaptarse a distintas necesidades del sector logístico, optimizando la administración de flotas, seguimiento de envíos y gestión operativa.
+<br>
+<br>
 📋<b>Problemas y Consultas</b>:
 <br>
 <br>
