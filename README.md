@@ -29,7 +29,7 @@ Se enfrentan a una falta de integración y automatización en la gestión de su 
 
 Este esquema representa el modelo de datos del ERP InfiniTrack Solutions, organizando las principales entidades y relaciones dentro del sistema. <br>
 <br>
-📌 Áreas principales:
+<h3>📌 Áreas principales:</h3>
 <ul>
   <li>Gestión de Activos 🏢</li>
   <li>Logística y Flotas 🚛</li>
