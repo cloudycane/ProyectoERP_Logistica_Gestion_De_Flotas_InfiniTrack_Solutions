@@ -58,6 +58,4 @@ Este esquema representa el modelo de datos del ERP InfiniTrack Solutions, organi
 https://github.com/user-attachments/assets/909924a4-2878-466d-88fe-292e4dd631c1
 <br>
 <br>
-![graph](https://github.com/user-attachments/assets/5afa2b2a-b9ac-4d44-a521-012b5740d314)
-
 
