@@ -52,6 +52,28 @@ Este esquema representa el modelo de datos del ERP InfiniTrack Solutions, organi
       <th>Finanzas y facturación</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Categoría de activos</li>
+          <li>Activos</li>
+          <li>Historial de movimientos de activos</li>
+          <li>Ubicación</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Categoría de vehículo</li>
+          <li>Vehículo</li>
+          <li>Conductor</li>
+          <li>Ruta</li>
+          <li>Orden de transporte</li>
+          <li>Historial de viajes o asignaciones</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 <br>
 <br>
