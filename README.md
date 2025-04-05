@@ -45,7 +45,6 @@ Este esquema representa el modelo de datos del ERP InfiniTrack Solutions, organi
       <th>Gestión de activos de la empresa</th>
       <th>Gestión de logística y flotas</th>
       <th>Gestión de adquisición de materias primas</th>
-      <th>Gestión de logística y flotas</th>
       <th>Gestión de almacén e inventario</th>
       <th>Gestión de mantenimiento y reparaciones</th>
       <th>Reportes y análisis</th>
@@ -70,6 +69,44 @@ Este esquema representa el modelo de datos del ERP InfiniTrack Solutions, organi
           <li>Ruta</li>
           <li>Orden de transporte</li>
           <li>Historial de viajes o asignaciones</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Suministrador</li>
+          <li>Materias primas</li>
+          <li>Facturación</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Almacén</li>
+          <li>Movimiento del inventario</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Orden de mantenimiento</li>
+          <li>Historiak de mantenimiento</li>
+          <li>Técnico</li>
+          <li>Proveedores de respuestos</li>
+          <li>Respuesto o parte</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Reportes</li>
+          <li>KPIs o Indicador de desempeño</li>
+          <li>Usuario</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Facturas</li>
+          <li>Cliente</li>
+          <li>Contrato</li>
+          <li>Cuenta por cobrar</li>
+          <li>Cuenta por pagar</li>
         </ul>
       </td>
     </tr>
