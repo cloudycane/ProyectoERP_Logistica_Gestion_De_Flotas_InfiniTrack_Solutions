@@ -16,7 +16,7 @@ Este proyecto busca proporcionar una solución ERP funcional y modular, que pued
 Se enfrentan a una falta de integración y automatización en la gestión de su operación de monitoreo y administración de flotas de transporte. Actualmente, utilizan diferentes sistemas y hojas de cálculo dispersas lo que genera: 
 <br>
 <br>
-⛔ Errores en la gestión de datos (duplicidad, inconsistencias). <br>
+⛔ Errores en la gestión de datos (por ejemplo: duplicidad, inconsistencias). <br>
 ⛔ Falta de control en tiempo real sobre vehículos, rutas y costos. <br>
 ⛔ Dificultades en la facturación y administración financiera. <br>
 ⛔ Mantenimiento ineficiente, causando retrasos y sobrecostos. <br>
